@@ -1,0 +1,9 @@
+Flask
+whisper
+gtts
+pygame
+python-dotenv
+numpy
+sounddevice
+scipy
+soundfile

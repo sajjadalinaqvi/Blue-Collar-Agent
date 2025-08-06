@@ -1,0 +1,65 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  background: white;
+  padding: 2em;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #3b5998;
+}
+
+#recordBtn {
+  padding: 15px 30px;
+  font-size: 18px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+#recordBtn:active {
+  background-color: #0056b3;
+}
+
+#status {
+  margin: 10px 0;
+  font-weight: bold;
+  color: #444;
+}
+
+.chat-box {
+  margin-top: 30px;
+  text-align: left;
+  max-height: 300px;
+  overflow-y: auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fafafa;
+}
+
+.chat-box p {
+  margin: 8px 0;
+}
+
+.chat-box .user {
+  color: #333;
+  font-weight: bold;
+}
+
+.chat-box .assistant {
+  color: #006400;
+}
