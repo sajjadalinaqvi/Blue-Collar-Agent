@@ -71,9 +71,14 @@ Optional: Chrome (for UI frontend)
 
 The voice assistant expects a REST API at /bluecollar that responds to this format:
 ```bash
-🤖 Backend Agent Requirements
-The voice assistant expects a REST API at /bluecollar that responds to this format:
+{
+  "user_query": "...",
+  "history": [...],
+  "timestamp": "...",
+  "assistant_response": "..."
+}
 ```
+
 
 
 
