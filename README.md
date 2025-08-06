@@ -64,24 +64,11 @@ Optional: Chrome (for UI frontend)
 
 
 ## 🤖 Backend Agent Requirements
+
 The voice assistant expects a REST API at /bluecollar that responds to this format:
 ```bash
 🤖 Backend Agent Requirements
 The voice assistant expects a REST API at /bluecollar that responds to this format:
 ```
----
 
-## 📮 Feedback
-Contributions, issues, or improvements? Feel free to fork or raise an issue!
-
-
----
-
-### 🔹 GitHub Short Repo Description
-
-> 🧠 Local voice assistant for blue-collar service bookings with barge-in, Whisper STT, and real-time TTS.
-
----
-
-Let me know if you'd like me to regenerate the downloadable file once the system allows it again. ​:contentReference[oaicite:0]{index=0}​
 
