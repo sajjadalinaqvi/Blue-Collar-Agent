@@ -33,6 +33,7 @@ python main.py
 python run_server.py
 ```
 Then open http://localhost:5000 in your browser.
+
 ---
 
 
@@ -41,6 +42,7 @@ Create a .env file with your API endpoint:
 ```bash
 GULLU_API_URL=http://localhost:8000/bluecollar
 ```
+
 ---
 
 ## 📋 Requirements
@@ -51,6 +53,7 @@ FFmpeg (for Whisper + TTS)
 Whisper model (base/medium preferred)
 
 Optional: Chrome (for UI frontend)
+
 ---
 
 
@@ -60,6 +63,7 @@ Optional: Chrome (for UI frontend)
 🧠 Retain customer name, job type, and appointment
 
 🛑 Interrupt ongoing voice output naturally
+
 ---
 
 
@@ -70,5 +74,6 @@ The voice assistant expects a REST API at /bluecollar that responds to this form
 🤖 Backend Agent Requirements
 The voice assistant expects a REST API at /bluecollar that responds to this format:
 ```
+
 
 
