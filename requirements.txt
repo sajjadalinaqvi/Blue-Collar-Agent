@@ -1,0 +1,16 @@
+Flask
+openai-whisper
+RealtimeSTT
+elevenlabs
+pygame
+python-dotenv
+numpy
+sounddevice
+scipy
+soundfile
+requests
+webrtcvad
+langchain-groq
+langchain-core
+SpeechRecognition
+pydub
